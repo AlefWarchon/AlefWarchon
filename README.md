@@ -2,7 +2,7 @@
 
 **<p align="center">I'm 26 years old. I'm from Brazil, living in Rio de Janeiro.</p>**  
 
-Front-End Focus 🌟
+Front-End is my study focus 🌟
 #
 **<p align="center">🔥 Current starting my studies in:</p>**
 
