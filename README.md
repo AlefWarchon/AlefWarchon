@@ -1,6 +1,4 @@
-
-
-**Hi, I’m Alef 👋**
+# **Hi, I’m Alef 👋**
 
 I'm 26 years old. I'm from Brazil, living in Rio de Janeiro.
 
