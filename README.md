@@ -1,4 +1,4 @@
-Hi, I’m Alef 👋
+**Hi, I’m Alef 👋**
 
 I'm 26 years old. I'm from Brazil, living in Rio de Janeiro and current starting my studies in:
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35](https://user-images.githubusercontent.com/109194445/178646277-f74b4f4d-e0c8-4c2c-8200-c02053cdf9a6.svg)
