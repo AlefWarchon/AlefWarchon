@@ -1,4 +1,4 @@
-# **<p align="center">Hi 👋, I’m Alef</p>**
+# **<p align="center">Hi 👋, I’m Alef!</p>**
 
 **<p align="center">I'm 26 years old. I'm from Brazil, living in Rio de Janeiro.</p>**  
 
