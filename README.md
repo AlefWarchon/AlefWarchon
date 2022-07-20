@@ -1,23 +1,32 @@
-# **<p align="center">Hi 👋, I’m Alef!</p>**
+<h1 align="center">Hi 👋, I'm Alef!</h1>
 
-**<p align="center">I'm 26 years old. I'm from Brazil, living in Rio de Janeiro.</p>**  
+<div align="center">
+<p>I'm 26 years old. I'm from Brazil, living in Rio de Janeiro.
+<br>
+Front-End is my study focus
+</p>
+</div>
 
-<p align="center">Front-End is my study focus 🌟</p>
+<div align="center">
+<h3>Learning..</h3>
+ <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=1F2729&style=for-the-badge&logo=HTML5" alt="HTML5" />&nbsp;
+ <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1F2729&style=for-the-badge&logo=CSS3" alt="CSS3" />&nbsp;
+</div>
 
-#
-**<p align="center">🔥 Current starting my studies in:</p>**
+<div align="center">
+<h3>Interest in:</h3>
+ <img src="https://img.shields.io/static/v1?label=&message=REACT&color=1F2729&style=for-the-badge&logo=React" alt="REACT" />
+ </div>
 
-**<p align="center">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35](https://user-images.githubusercontent.com/109194445/178646277-f74b4f4d-e0c8-4c2c-8200-c02053cdf9a6.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236](https://user-images.githubusercontent.com/109194445/178646293-b6c33946-a34a-4edc-8ff6-276e04ebfbef.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074](https://user-images.githubusercontent.com/109194445/178646300-07741dcd-7f0c-4ebe-987d-e024c66bfdee.svg)</p>**
+<br>
 
-#
-**<p align="center">⭐ Interest in:</p>**
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alefwarchon&show_icons=true&theme=dracula&layout=compact" alt="Alef's Github Stats" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefwarchon&show_icons=true&theme=dracula&layout=compact" alt="Alef's Most Used Languages" />
+</div>
 
-**<p align="center">![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374](https://user-images.githubusercontent.com/109194445/178656752-9851e8bb-ee6f-4832-ac62-84f8a8f0c292.svg)</p>**
-
-
-<!---
-AlefWarchon/AlefWarchon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+<h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/alef-warchon-400571245/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=EA1D2C&style=for-the-badge&logo=linkedin"/>
+</div>
