@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alef!</h1>
 
-<div align="center">
-<p>I'm 26 years old. I'm from Brazil, living in Rio de Janeiro.
+<p align="center">
+I'm 26 years old. I'm from Brazil, living in Rio de Janeiro.
 <br>
 Front-End is my study focus
 </p>
-</div>
 
 <div align="center">
 <h3>Learning..</h3>
@@ -21,12 +20,18 @@ Front-End is my study focus
 <br>
 
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alefwarchon&show_icons=true&theme=dracula&layout=compact" alt="Alef's Github Stats" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefwarchon&show_icons=true&theme=dracula&layout=compact" alt="Alef's Most Used Languages" />
+<img height="160em" 
+src="https://github-readme-stats.vercel.app/api?username=alefwarchon&show_icons=true&theme=dracula&layout=compact" 
+alt="Alef's Github Stats" />
+
+<img height="110em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefwarchon&show_icons=true&theme=dracula&layout=compact" 
+alt="Alef's Most Used Languages" />
 </div>
 
 <div>
 <h3>Connect with me:</h3>
-<a href="https://www.linkedin.com/in/alef-warchon-400571245/"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=EA1D2C&style=for-the-badge&logo=linkedin"/>
+<a 
+href="https://www.linkedin.com/in/alef-warchon-400571245/"><img 
+src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=EA1D2C&style=for-the-badge&logo=linkedin"/>
 </div>
