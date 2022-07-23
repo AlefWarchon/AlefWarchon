@@ -34,10 +34,8 @@ alt="Alef's Most Used Languages" />
 <h3>Connect with me:</h3>
 <a 
 href="https://www.linkedin.com/in/alef-warchon-400571245/"><img 
-src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1F2729&style=for-the-badge&logo=linkedin"/>&nbsp;
-</a>
-<a
+src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=1F2729&style=for-the-badge&logo=linkedin"/>
+<a 
 href="https://www.youtube.com/channel/UC8NcQCGYRvwA5iB7lIy7rCg"><img 
 src="https://img.shields.io/static/v1?label=&message=Youtube&color=1F2729&style=for-the-badge&logo=youtube"/>
-</a>
 </div>
