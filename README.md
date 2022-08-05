@@ -9,8 +9,8 @@ Front-End is my study focus
 <div align="center">
 <h3>Learning..</h3>
  <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=1F2729&style=for-the-badge&logo=HTML5" alt="HTML5" />&nbsp;
- <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1F2729&style=for-the-badge&logo=CSS3" alt="CSS3" />
- <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=1F2729&style=for-the-badge&logo=JavaScript" alt="JS" />&nbsp;
+ <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=1F2729&style=for-the-badge&logo=CSS3" alt="CSS3" />&nbsp;
+ <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=1F2729&style=for-the-badge&logo=JavaScript" alt="JS" />
 </div>
 
 <div align="center">
