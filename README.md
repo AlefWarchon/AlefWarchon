@@ -8,28 +8,30 @@ Front-End is my study focus
 
 <div align="center">
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technologies :hammer_and_wrench:</h3>
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
           
 </div>
-
 <div align="center">
 <h3>Interest in:</h3>
-<img height="80em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
- </div>
+<img height="60em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
+</div>
 
 <br/>
 
 <div align="center">
 <a href="https://github.com/AlefWarchon">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlefWarchon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlefWarchon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <br/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefWarchon&layout=compact&langs_count=7&theme=dracula"/>
+<img height="134em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefWarchon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake animation](https://github.com/AlefWarchon/AlefWarchon/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <div>
 <h3>Connect with me:</h3>
